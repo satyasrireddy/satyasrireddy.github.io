@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>South Village Run Club</title>
+    <link href="style.css" rel="stylesheet" />
+    <link
+      href="https://fonts.googleapis.com/css?family=Montserrat"
+      rel="stylesheet"
+      type="text/css"
+    />
+  </head>
+  <body>
+    <!--   header -->
+    <div class="body">
+      <!--   header 1 -->
+      <nav>
+        <ul>
+          <a href="#"><li>Events</li></a>
+          <a href="#"><li>Results</li></a>
+          <a href="#"><li>Parenting-Restaurants</li></a>
+        </ul>
+      </nav>
+      
+        <div class="intro">
+          <h1>South Village Run Club</h1>
+        </div>
+      </div>
+      <div class="summary">
+        <h2>Meet up. Work out. Celebrate.</h2>
+        <p>
+          Come join our vibrant community whose focus is training hard and
+          enjoying local post-workout cuisine - guilt-free!
+        </p>
+        <p>
+          South Village Run Club is a free MeetUp group sponsored by
+          <a href="#">City Shoes.</a>
+        </p>
+      </div>
+      <div class="photos">
+        <img src="tunnel-runners.jpg" alt="tunnel-runners" />
+        <img src="meetup-wine.jpg" alt="meetup-wine" />
+        <img src="runners-grayscale.jpg" alt="runners" />
+      </div>
+      <div class="testimonial">
+        <h1>
+          "I build my weeknight plans around their events. I can exercise and
+          meet new people every week!"
+        </h1>
+        <p>-Bryce R. - financial advisor/frequent runner since 2018</p>
+      </div>
+      <div class="photos">
+        <img src="coffeshop.jpg" alt="shop" />
+        <img src="marathon-runners.jpg" alt="marathon-runners" />
+        <img src="hangouts.jpg" alt="hangouts" />
+      </div>
+      <div class="meetup">
+        <h1>Come Join the fun</h1>
+        <img src="runners-church.jpg" alt="runners" />
+        <p>We meet every evening in the city square at 7PM!</p>
+      </div>
+
+   <nav>
+    <ul>
+      <a href="#"><li>Events</li></a>
+      <a href="#"><li>Results</li></a>
+      <a href="#"><li>Parenting Restaurants</li></a>
+    </nav>
+      
+    </div>
+  </body>
+</html>
